@@ -21,7 +21,7 @@ export default function Home() {
       </Head>
       <div style={styles.container}>
         <h1 style={styles.title}>Envio de Documentos | Bom Preço</h1>
-        <p style={styles.subtitle}>Faça o upload de seus documentos em PDF de forma segura.</p>
+        <p style={styles.subtitle}>Faça o upload de seus documentos em PDF.</p>
         <input
           type="file"
           accept="application/pdf"
